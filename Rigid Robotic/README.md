@@ -8,6 +8,6 @@ Para llevar a cabo el movimiento del sub-sistema se utilizaron los siguientes co
 - Rodamientos:
   - 6804 (20x32x7 mm)
   - 685 (5x11x5 mm)
-- Tornillo sinfín:
+- Tornillos sinfín:
   - Tornillo de largo 6,5 cm
   - Tornillo de largo 20 cm
