@@ -11,3 +11,7 @@ Para la estructura del sub-sistema también se utilizaron los siguientes compone
 - Tornillos sinfín:
   - Tornillo de largo 6,5 cm
   - Tornillo de largo 20 cm
+ 
+  ![Ensamble proyecto v13](https://github.com/user-attachments/assets/4ec2587b-2c1a-41ef-a2e6-e337393bfd31)
+
+
