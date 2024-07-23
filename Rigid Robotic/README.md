@@ -12,3 +12,5 @@ Para la estructura del sub-sistema también se utilizaron los siguientes compone
   - Tornillo de largo 6,5 cm
   - Tornillo de largo 20 cm
  
+Luego, para la implementación del movimiento se utilizaron los componentes comerciales electrónicos de a continuación:
+-
