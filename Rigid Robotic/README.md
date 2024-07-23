@@ -14,4 +14,3 @@ Para la estructura del sub-sistema también se utilizaron los siguientes compone
  
 Luego, para la implementación del movimiento se utilizaron los componentes comerciales electrónicos de a continuación:
 - Motor Stepper NEMA 17
-- 
